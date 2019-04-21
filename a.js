@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 * @Author: Administrator
 * @Date:   2019-04-21 09:50:22
@@ -7,8 +8,15 @@
 
 'use strict';
 
+=======
+>>>>>>> apple
 
 
 bu nishi qiaozhi 
 woshipeiqi
+<<<<<<< HEAD
 dhfj
+=======
+ woshi   
+
+>>>>>>> apple
