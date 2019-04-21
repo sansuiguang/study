@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 * @Author: Administrator
 * @Date:   2019-04-21 09:50:22
@@ -10,3 +11,6 @@
 
 
 bu nishi qiaozhi 
+=======
+woshipeiqi
+>>>>>>> apple
